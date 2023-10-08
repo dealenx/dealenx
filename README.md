@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My telegram-channel: t.me/dealenx_io
+
 <!--
 **dealenx/dealenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
