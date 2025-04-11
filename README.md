@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-My Telegram Blog: <a href="https://t.me/dealenx_io">t.me/dealenx_io</a> (RU)
+My Telegram Blog: <a href="https://t.me/dealenxdev">t.me/dealenxdev</a> (RU)
 
-<a href="https://t.me/dealenx_io"><img src="https://mini.s-shot.ru/1024x768/JPEG/1024/Z100/?https://t.me/s/dealenx_io"/></a>
+<a href="https://t.me/dealenxdev"><img src="https://mini.s-shot.ru/1024x768/JPEG/1024/Z100/?https://t.me/s/dealenxdev"/></a>
 
 <!--
 **dealenx/dealenx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
